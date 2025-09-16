@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tsetso</h1>
-<h3 align="center">Passionate Junior Python Developer and AI Enthusiast from Bulgaria<h1 align="center">Hi 👋, I'm Tsetso</h1>
-<h3 align="center">Passionate Junior Python Developer and AI Enthusiast from Bulgaria.</h3>
+<h3 align="center">Passionate Junior Python Developer and AI Enthusiast from Bulgaria<h1 align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
